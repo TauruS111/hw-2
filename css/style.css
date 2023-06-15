@@ -13,12 +13,7 @@ body {
   background-color: var(--bg-white);
 }
 
-a {
-  text-decoration: none;
-}
-
-ul,
-ol {
+.list {
   list-style: none;
 }
 
@@ -37,7 +32,7 @@ ol {
 }
 
 .header-studio {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -48,6 +43,16 @@ ol {
 }
 
 .nav-item {
+  color: var(--bg-black);
+}
+
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: var(--bg-black);
 }
 
@@ -79,6 +84,7 @@ address {
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
+  text-align: center;
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: var(--bg-white);
@@ -122,18 +128,29 @@ address {
   color: var(--color-text);
 }
 
-.work-title,
-.team-title {
+.work-title {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
+  text-align: center;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--bg-black);
 }
 
+.team-title {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--bg-black);
+}
 .team {
   background-color: var(--bg-team);
 }
