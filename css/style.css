@@ -155,6 +155,10 @@ address {
   background-color: var(--bg-team);
 }
 
+.team-img-list {
+  background-color: var(--bg-white);
+}
+
 .title-picture {
   font-family: "Roboto", sans-serif;
   font-style: normal;
