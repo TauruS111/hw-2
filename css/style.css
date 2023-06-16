@@ -236,7 +236,7 @@ footer {
   color: var(--bg-black);
 }
 
-item-text {
+.item-text {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
