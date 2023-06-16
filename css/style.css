@@ -47,8 +47,6 @@ body {
 }
 
 .nav-link {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -65,7 +63,6 @@ address {
   font-style: normal;
 }
 .contacts-link {
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -80,8 +77,6 @@ address {
   background-color: var(--bg-black);
 }
 .main-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 56px;
   text-align: center;
@@ -108,9 +103,6 @@ address {
 }
 
 .profit-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -119,9 +111,6 @@ address {
 }
 
 .profit-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -129,8 +118,6 @@ address {
 }
 
 .work-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   text-align: center;
@@ -160,8 +147,6 @@ address {
 }
 
 .title-picture {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -171,9 +156,6 @@ address {
 }
 
 .text-picture {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -197,8 +179,6 @@ footer {
 }
 
 .footer-text {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -227,8 +207,6 @@ footer {
 }
 
 .item-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -237,9 +215,6 @@ footer {
 }
 
 .item-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
